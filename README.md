@@ -6,8 +6,9 @@ Open a CSV, Parquet, Excel and scroll it straight away. Pick two files and see w
 
 Captain Grid is currently in pre-release and is not yet available on the VS Code Marketplace. 
 
-Download the extension here: 
-[captain-grid-0.1.0.vsix](https://github.com/gregkral/captain-grid/releases/download/v0.1.0/captain-grid-0.1.0.vsix)
+Download the latest extension here:
+https://github.com/gregkral/captain-grid/tags
+[release](https://github.com/gregkral/captain-grid/tags)
 
 And install it via the command line with:
 ```bash
