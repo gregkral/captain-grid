@@ -11,7 +11,7 @@ https://github.com/gregkral/captain-grid/tags
 
 And install it via the command line with:
 ```bash
-code --install-extension captain-grid-0.1.0.vsix
+code --install-extension captain-grid-0.1.XX.vsix
 ```
 
 ## Fast
