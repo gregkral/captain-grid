@@ -8,7 +8,6 @@ Captain Grid is currently in pre-release and is not yet available on the VS Code
 
 Download the latest extension here:
 https://github.com/gregkral/captain-grid/tags
-[release](https://github.com/gregkral/captain-grid/tags)
 
 And install it via the command line with:
 ```bash
